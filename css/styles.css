@@ -24,7 +24,7 @@ h3 {
 }
 
 a {
-  color: #cbaf87;
+  color: #e7dec8;
 }
 
 hr {
@@ -42,12 +42,20 @@ hr {
   display: grid;
 }
 
-.middle-container {
+.middle-container-1 {
   background-color: #cbaf87;
+  display: grid;
+  padding-bottom: 50px;
+}
+
+.middle-container-2 {
+  background-color: #e7dec8;
+  display: grid;
+  padding-bottom: 50px;
 }
 
 .bottom-container {
-  background-color: #e7dec8;
+  background-color: #cbaf87;
 }
 
 .bottom-cloud {
@@ -84,21 +92,26 @@ hr {
 }
 
 .skill-row {
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
 .code-img {
   float: left;
-  margin-right: 30px;
+  margin-right: 50px;
 }
 
 .art-img {
   float: right;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 
 .sew-img {
   float: left;
   margin-right: 30px;
+}
+
+.profile {
+  width: 70%;
+  margin: auto;
 }
