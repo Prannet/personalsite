@@ -1,102 +1,19 @@
-
 body {
-  margin: 0;
-  text-align: center;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-h1 {
-  font-size: 5.625rem;
-  color: #7e8a97;
-  margin: 50px auto 0 auto;
-  font-family: 'Sansita Swashed', cursive;
-}
-
-h2 {
-  font-size: 2.5rem;
-  color: #30475e;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-h3 {
-  color: #7e8a97;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-a {
-  color: #cbaf87;
+  background-color: #EAF6F6;
 }
 
 hr {
   border-color: white;
   border-style: none;
-  border-top-style: dotted;
-  border-width: 15px;
+  border-top-style: dashed;
+  border-width: 5px;
   height: 2px;
-  width: 10%
+
 }
 
-.top-container {
-  background-color: #e7dec8;
-  padding-top: 100px;
+h1{
+  color: #66BFBF;
 }
-
-.middle-container {
-  background-color: #cbaf87;
-}
-
-.bottom-container {
-  background-color: #e7dec8;
-}
-
-.bottom-cloud {
-  position: absolute;
-  left: 300px;
-  top: 400px;
-}
-
-.top-cloud {
-  position: absolute;
-  right: 300px;
-  top: 50px;
-}
-
-.laurelpic {
-  width: 200px;
-  margin-top: 50px;
-}
-
-.mountain {
-  width: 75%;
-}
-
-.programmer {
-  font-size: 2.5rem;
-  font-weight: normal;
-  color: #7e8a97;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-.btn {
-  color: #e7dec8;
-}
-
-.skill-row {
-  width: 30%;
-  margin: auto;
-}
-
-.code-img {
-  float: left;
-  margin-right: 30px;
-}
-
-.art-img {
-  float: right;
-  margin-left: 30px;
-}
-
-.sew-img {
-  float: left;
-  margin-right: 30px;
+h3{
+  color: #66BFBF;
 }
